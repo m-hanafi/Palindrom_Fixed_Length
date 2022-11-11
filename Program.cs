@@ -16,7 +16,7 @@ namespace Palindrom_Fixed_Length
 
         static long[] KthPalindrome(int[] queries, int intLength)
         {
-
+            //create a list to store the palindrom
             List<int> lst_Pal = new List<int>();
 
             int i = 0;
