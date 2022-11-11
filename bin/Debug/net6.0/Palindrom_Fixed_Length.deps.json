@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Palindrom_Fixed_Length/1.0.0": {
+        "runtime": {
+          "Palindrom_Fixed_Length.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Palindrom_Fixed_Length/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

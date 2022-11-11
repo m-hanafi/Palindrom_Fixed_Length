@@ -1,0 +1,15 @@
+D:\C#\LeetCode\Palindrom_Fixed_Length\bin\Debug\net6.0\Palindrom_Fixed_Length.exe
+D:\C#\LeetCode\Palindrom_Fixed_Length\bin\Debug\net6.0\Palindrom_Fixed_Length.deps.json
+D:\C#\LeetCode\Palindrom_Fixed_Length\bin\Debug\net6.0\Palindrom_Fixed_Length.runtimeconfig.json
+D:\C#\LeetCode\Palindrom_Fixed_Length\bin\Debug\net6.0\Palindrom_Fixed_Length.dll
+D:\C#\LeetCode\Palindrom_Fixed_Length\bin\Debug\net6.0\Palindrom_Fixed_Length.pdb
+D:\C#\LeetCode\Palindrom_Fixed_Length\obj\Debug\net6.0\Palindrom_Fixed_Length.csproj.AssemblyReference.cache
+D:\C#\LeetCode\Palindrom_Fixed_Length\obj\Debug\net6.0\Palindrom_Fixed_Length.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LeetCode\Palindrom_Fixed_Length\obj\Debug\net6.0\Palindrom_Fixed_Length.AssemblyInfoInputs.cache
+D:\C#\LeetCode\Palindrom_Fixed_Length\obj\Debug\net6.0\Palindrom_Fixed_Length.AssemblyInfo.cs
+D:\C#\LeetCode\Palindrom_Fixed_Length\obj\Debug\net6.0\Palindrom_Fixed_Length.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\Palindrom_Fixed_Length\obj\Debug\net6.0\Palindrom_Fixed_Length.dll
+D:\C#\LeetCode\Palindrom_Fixed_Length\obj\Debug\net6.0\refint\Palindrom_Fixed_Length.dll
+D:\C#\LeetCode\Palindrom_Fixed_Length\obj\Debug\net6.0\Palindrom_Fixed_Length.pdb
+D:\C#\LeetCode\Palindrom_Fixed_Length\obj\Debug\net6.0\Palindrom_Fixed_Length.genruntimeconfig.cache
+D:\C#\LeetCode\Palindrom_Fixed_Length\obj\Debug\net6.0\ref\Palindrom_Fixed_Length.dll
